@@ -6,4 +6,4 @@ The game was written for the MS-DOS platform in TMT Pascal 32-bit. The graphics 
 
 There are some screenshots if a gameplay:
 
-![Screenshots of a gameplay](screenshots.gif)
+![Screenshots of a gameplay](screenshots_gif.gif)
